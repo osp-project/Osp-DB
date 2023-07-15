@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osp-DB", "Osp-DB.csproj", "{6176DA32-FE82-41FC-8C2D-8A82049F26BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6176DA32-FE82-41FC-8C2D-8A82049F26BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6176DA32-FE82-41FC-8C2D-8A82049F26BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6176DA32-FE82-41FC-8C2D-8A82049F26BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6176DA32-FE82-41FC-8C2D-8A82049F26BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C40DA1A-AA56-412F-8DA9-6DC665B1C903}
+	EndGlobalSection
+EndGlobal
